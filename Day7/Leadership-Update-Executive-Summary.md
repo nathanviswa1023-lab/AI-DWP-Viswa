@@ -1,0 +1,10 @@
+# Leadership Update — Win11 Migration: Executive Summary
+
+**Date:** 12/08/2026
+**Audience:** Senior leadership (non-technical)
+
+---
+
+Overall, the Windows 11 migration has gone well for most staff, and the picture is continuing to improve. In the first week, a meaningful number of people ran into real difficulties — some couldn't sign in to their virtual desktop at all, a few were locked out of their accounts, and others temporarily couldn't see files they needed or reach a shared team drive. Those were the issues we treated as most serious, because they stopped people working rather than just slowing them down. The good news is that by week two, the sign-in and account lockout problems, the shared file access issues, and general slow performance had all been resolved, and staff are actively telling us things feel smoother and faster than before. Alongside this, there's been a steady stream of positive feedback, with people commenting on the new setup being quicker and the transition being handled well overall.
+
+What remains open is more contained but still needs attention. A printer mapping issue affecting one floor has not been fully fixed and is now going into its third week, so we're treating that as a priority to close out rather than leave as a workaround. Separately, a new issue has emerged this week: some staff, particularly in finance, are experiencing crashes when opening larger spreadsheet files, sometimes losing unsaved work. Because this is new, affects a business-critical team, and can cause real work to be lost, we are prioritising it immediately rather than waiting for it to grow. A small number of earlier concerns had no further reports in week two, which is encouraging, but we're confirming directly with those teams rather than assuming they're resolved. In short: the migration itself has landed well, the serious early problems are behind us, and the team is focused on closing the printer issue and getting ahead of the new spreadsheet problem before it spreads further.
