@@ -1,0 +1,8 @@
+{
+  "modulesUrl": "https://raw.githubusercontent.com/Azure/RDS-Templates/master/ARM-wvd-templates/DSC/Configuration.zip",
+  "configurationFunction": "Configuration.ps1\\AddSessionHost",
+  "properties": {
+    "HostPoolName": "POOL-FIN-01",
+    "AadJoin": true
+  }
+}
